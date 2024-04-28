@@ -1,7 +1,7 @@
 # System Design
 
 # Stages
-## 1. Plan
+[## 1. Plan] (#plan)
   * Jira
   * Confluence
 ## 2. Code
@@ -21,3 +21,6 @@
   * Pagerduty
 ## 8. Monitor
   * Splunk
+
+---
+## Plan
