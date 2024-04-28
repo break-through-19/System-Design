@@ -1,7 +1,7 @@
 # System Design
 
 # Stages
-[## 1. Plan] (#plan)
+## 1. [Plan](#plan)
   * Jira
   * Confluence
 ## 2. Code
