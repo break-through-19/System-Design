@@ -1,24 +1,23 @@
 # System Design
-___
 
 # Stages
 1. Plan
-..* Jira
-..* Confluence
+  * Jira
+  * Confluence
 2. Code
-..* Spring Boot
-..* React (..various other frameworks and libraries)
+  * Spring Boot
+  * React (..various other frameworks and libraries)
 3. Build
-..* Maven
-..* Gradle
-..* Nebula
+  * Maven
+  * Gradle
+  * Nebula
 4. Test
-..* Chaos Monkey
+  * Chaos Monkey
 5. Release
-..* Jenkins
+  * Jenkins
 6. Deploy
-..* Spinnaker
+  * Spinnaker
 7. Operate
-..* Pagerduty
+  * Pagerduty
 8. Monitor
-..* Splunk
+  * Splunk
