@@ -4,7 +4,7 @@
 ## 1. [Plan](#plan)
   * Jira
   * Confluence
-## 2. Code
+## 2. [Code](#code)
   * Spring Boot
   * React (..various other frameworks and libraries)
 ## 3. Build
@@ -23,4 +23,4 @@
   * Splunk
 
 ---
-## Plan
+## Code
