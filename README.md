@@ -26,7 +26,7 @@
 ## Code
 
 ## Architectural Patterns
-- [] Client-Server Architecture - https://www.redswitches.com/blog/client-server-architecture/
+- [ ] Client-Server Architecture - https://www.redswitches.com/blog/client-server-architecture/
 - [] Microservices Architecture - https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9
 - [] Serverless Architecture - https://www.datadoghq.com/knowledge-center/serverless-architecture/
 - [] Event-Driven Architecture - https://www.confluent.io/learn/event-driven-architecture/
