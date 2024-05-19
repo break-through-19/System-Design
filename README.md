@@ -74,3 +74,6 @@
 - [ ] API Gateway: https://lnkd.in/gnsJGJaM
 - [ ] Distributed Locking: https://lnkd.in/gRxNJwWE
 - [ ] Checksum: https://lnkd.in/ghNc5pfn
+
+## Useful Resources
+* https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file
