@@ -22,9 +22,6 @@
 ## 8. Monitor
   * Splunk
 
----
-## Code
-
 ## Architectural Patterns
 - [ ] Client-Server Architecture - https://www.redswitches.com/blog/client-server-architecture/
 - [ ] Microservices Architecture - https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9
