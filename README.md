@@ -39,7 +39,7 @@
 - [ ] API Design: https://lnkd.in/ghYzrr8q
 - [ ] Strong vs Eventual Consistency: https://lnkd.in/gJ-uXQXZ
 - [ ] Synchronous vs. asynchronous communications: https://lnkd.in/g4EqcckR
-       * Communication protocol default port: https://developer.mozilla.org/en-US/docs/Glossary/Port#
+  * Communication protocol default port: https://developer.mozilla.org/en-US/docs/Glossary/Port#
 - [ ] REST vs RPC: https://lnkd.in/gN__zcAB
 - [ ] Batch Processing vs Stream Processing: https://lnkd.in/gaAnP_fT
 - [ ] Fault Tolerance: https://lnkd.in/dVJ6n3wA
