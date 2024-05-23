@@ -53,6 +53,7 @@
 
 ## Building Blocks
 - [ ] Horizontal vs Vertical Scaling: https://lnkd.in/gAH2e9du
+  * https://www.redswitches.com/blog/horizontal-vs-vertical-scaling/
 - [ ] Databases: https://lnkd.in/gti8gjpz
 - [ ] Content Delivery Network (CDN): https://lnkd.in/gjJrEJeH
 - [ ] Domain Name System (DNS): https://lnkd.in/gkMcZW8V
