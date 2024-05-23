@@ -80,3 +80,4 @@
 
 ## Useful Resources
 * https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file
+* https://www.youtube.com/@ConceptandCoding/videos
