@@ -44,6 +44,8 @@
   * Communication protocol default port: https://developer.mozilla.org/en-US/docs/Glossary/Port#
   * HTTP 1 vs HTTP 2 vs HTTP 3L: https://youtu.be/a-sBfyiXysI?si=hV8s7tuwx-Hkvx4y
 - [ ] REST vs RPC: https://lnkd.in/gN__zcAB
+  * RPC - https://youtu.be/eRndYq8iTio?si=_g9q2liLVrLRn5Mk
+  * gRPC - https://youtu.be/gnchfOojMk4?si=I2zqCAe9hN85WJsq
 - [ ] Batch Processing vs Stream Processing: https://lnkd.in/gaAnP_fT
 - [ ] Fault Tolerance: https://lnkd.in/dVJ6n3wA
 - [ ] Consensus Algorithms: https://lnkd.in/ggc3tFbr
