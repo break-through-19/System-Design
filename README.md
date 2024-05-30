@@ -23,7 +23,7 @@
   * Splunk
 
 ## Architectural Patterns
-- [ ] Client-Server Architecture - https://www.redswitches.com/blog/client-server-architecture/
+- [-] Client-Server Architecture - https://www.redswitches.com/blog/client-server-architecture/
   * OS Types - https://www.redswitches.com/blog/types-of-operating-systems/
   * Web server - Nginx [https://youtu.be/JKxlsvZXG7c?si=1V9GIq3UAlNCVYaM , https://youtu.be/WuH0T9FHDZ4?si=QFFfM1nrU6zmaRuK]
 - [ ] Microservices Architecture: https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9
