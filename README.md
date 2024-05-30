@@ -42,6 +42,7 @@
 - [ ] Strong vs Eventual Consistency: https://lnkd.in/gJ-uXQXZ
 - [ ] Synchronous vs. asynchronous communications: https://lnkd.in/g4EqcckR
   * Communication protocol default port: https://developer.mozilla.org/en-US/docs/Glossary/Port#
+  * HTTP 1 vs HTTP 2 vs HTTP 3L: https://youtu.be/a-sBfyiXysI?si=hV8s7tuwx-Hkvx4y
 - [ ] REST vs RPC: https://lnkd.in/gN__zcAB
 - [ ] Batch Processing vs Stream Processing: https://lnkd.in/gaAnP_fT
 - [ ] Fault Tolerance: https://lnkd.in/dVJ6n3wA
