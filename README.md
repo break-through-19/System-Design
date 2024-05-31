@@ -30,6 +30,7 @@
 - [ ] Serverless Architecture - https://www.datadoghq.com/knowledge-center/serverless-architecture/
 - [ ] Event-Driven Architecture - https://www.confluent.io/learn/event-driven-architecture/
 - [ ] Peer-to-Peer (P2P) Architecture - https://www.spiceworks.com/tech/networking/articles/what-is-peer-to-peer/
+- [ ] Monolithic Architecture - 
 
 ## Key Concepts
 - [ ] Scalability: https://lnkd.in/gpge_z76
