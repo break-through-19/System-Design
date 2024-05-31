@@ -1,3 +1,3 @@
-API Gateway
-API Style Guide
-API Playgrounds
+* API Gateway
+* API Style Guide
+* API Playgrounds
