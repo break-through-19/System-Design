@@ -6,6 +6,8 @@
 
 ## Javascript
 1. Web Dev Simplified (Normal vs Async vs Defer load): https://youtu.be/BMuFBYw91UQ?si=D_HQLQROYAzDLMrV
+2. Making API calls in JS: https://developer.mozilla.org/en-US/docs/Web/API/Window/fetch
+- Response obj: https://developer.mozilla.org/en-US/docs/Web/API/Response
 
 ## Module Bundlers
 1. Webpack - 
