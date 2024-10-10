@@ -61,6 +61,7 @@
   * https://www.redswitches.com/blog/horizontal-vs-vertical-scaling/
 - [ ] Databases: https://lnkd.in/gti8gjpz
 - [ ] Content Delivery Network (CDN): https://lnkd.in/gjJrEJeH
+  * How CDN interacts with clients (or) how its configured? - Ist it on Web servers? - Dig deeper
 - [ ] Domain Name System (DNS): https://lnkd.in/gkMcZW8V
 - [ ] Caching: https://lnkd.in/gC9piQbJ
 - [ ] Distributed Caching: https://lnkd.in/g7WKydNg
