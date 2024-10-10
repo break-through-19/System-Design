@@ -63,6 +63,8 @@
 - [ ] Content Delivery Network (CDN): https://lnkd.in/gjJrEJeH
   * How CDN interacts with clients (or) how its configured? - Ist it on Web servers? - Dig deeper
 - [ ] Domain Name System (DNS): https://lnkd.in/gkMcZW8V
+  * How is DNS server setup? Do we have any popular providers?
+  * How browsers talk to DNS? How they know which DNS to talk to?
 - [ ] Caching: https://lnkd.in/gC9piQbJ
 - [ ] Distributed Caching: https://lnkd.in/g7WKydNg
 - [ ] Load Balancing: https://lnkd.in/gQaa8sXK
