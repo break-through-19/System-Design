@@ -18,3 +18,7 @@
 
 ## React 18
 1. 
+
+## Optimization Techniques
+1. Minification - https://www.cloudflare.com/en-in/learning/performance/why-minify-javascript-code/
+2. 
